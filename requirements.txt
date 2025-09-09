@@ -1,7 +1,8 @@
-fastapi
-uvicorn
-chromadb
-pydantic
-python-multipart
-pymupdf
-sentence-transformers
+fastapi==0.104.1
+uvicorn==0.24.0
+chromadb==0.4.15
+sentence-transformers==2.2.2
+PyPDF2==3.0.1
+python-multipart==0.0.6
+requests==2.31.0
+numpy==1.24.0
